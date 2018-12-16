@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/wooillee/python/NLP/venv"
+set -gx VIRTUAL_ENV "/Users/wooillee/Documents/workspace/Python/nlp_home/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
